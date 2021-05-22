@@ -8,4 +8,4 @@ Description
 Image
     <img src="images/screenshot.jpg">
 Link
-     [Password Generator](https://gimbalbyte.github.io/Open-Weather-Application/)
+     [Open Weather](https://gimbalbyte.github.io/Open-Weather-Application/)
